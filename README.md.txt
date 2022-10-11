@@ -1,0 +1,1 @@
+Таблица с результатами выполнения: https://docs.google.com/spreadsheets/d/12_ib47c-NFpSdh4OxXP6Ullq8QLJS7ge/edit?usp=sharing&ouid=109848788172927011472&rtpof=true&sd=true
