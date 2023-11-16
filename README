@@ -2,8 +2,8 @@
 
 Л.Р. №1: http://judge.mipt.ru/mipt_cs_on_python3/labs/lab1.html
 Для выполнения Л.Р. № 1 в Google colab:
-	Выполнить !pip install ColabTurtlePlus для утсановки модуля.
-	Импортировать модульследующим образом: import ColabTurtlePlus.Turtle as turtle.
+	Выполнить !pip install ColabTurtlePlus для установки модуля.
+	Импортировать модуль следующим образом: import ColabTurtlePlus.Turtle as turtle.
 	В начале каждого упражнения выполнять: turtle.initializeTurtle()
 Л.Р. №3: http://judge.mipt.ru/mipt_cs_on_python3/labs/lab2.html
 Л.Р. №4: http://judge.mipt.ru/mipt_cs_on_python3/labs/lab4.html
