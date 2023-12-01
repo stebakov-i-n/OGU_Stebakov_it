@@ -1,11 +1,10 @@
 Таблица с результатами выполнения: 31 МХ https://docs.google.com/spreadsheets/d/12_ib47c-NFpSdh4OxXP6Ullq8QLJS7ge/edit?usp=sharing&ouid=109848788172927011472&rtpof=true&sd=true
 
-Л.Р. №1: http://judge.mipt.ru/mipt_cs_on_python3/labs/lab1.html
+Л.Р. №1: https://mipt-cs.github.io/python3-2017-2018/labs/lab1.html
 Для выполнения Л.Р. № 1 в Google colab:
 	Выполнить !pip install ColabTurtlePlus для установки модуля.
 	Импортировать модуль следующим образом: import ColabTurtlePlus.Turtle as turtle.
 	В начале каждого упражнения выполнять: turtle.initializeTurtle()
-Л.Р. №3: http://judge.mipt.ru/mipt_cs_on_python3/labs/lab2.html
-Л.Р. №4: http://judge.mipt.ru/mipt_cs_on_python3/labs/lab4.html
+РГР: https://mipt-cs.github.io/python3-2017-2018/labs/lab2.html
 
-Источник Л.Р. № 2 - 4: 2017-2018 Алгоритмы и структуры данных на Python 3. Тимофей Хирьянов. Ссылка: https://youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0
+Источник Л.Р. № 1 и РГР: 2017-2018 Алгоритмы и структуры данных на Python 3. Тимофей Хирьянов. Ссылка: https://youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0
