@@ -6,5 +6,7 @@
 	Импортировать модуль следующим образом: import ColabTurtlePlus.Turtle as turtle.
 	В начале каждого упражнения выполнять: turtle.initializeTurtle()
 РГР: https://mipt-cs.github.io/python3-2017-2018/labs/lab2.html
+В задании 32 запись значения в регистр работает следующим образом: mov('ax', n), где 'ax' - имя регистра, n - число или переменная хранящая число.
+	
 
 Источник Л.Р. № 1 и РГР: 2017-2018 Алгоритмы и структуры данных на Python 3. Тимофей Хирьянов. Ссылка: https://youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0
