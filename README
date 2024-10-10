@@ -1,4 +1,11 @@
-Таблица с результатами выполнения: 31 МХ https://docs.google.com/spreadsheets/d/12_ib47c-NFpSdh4OxXP6Ullq8QLJS7ge/edit?usp=sharing&ouid=109848788172927011472&rtpof=true&sd=true
+Необходимые пакеты для локальной работы:
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install jupyter
+pip install matplotlib
+
+Таблица с результатами выполнения: #TODO
 
 Л.Р. №1: https://mipt-cs.github.io/python3-2017-2018/labs/lab1.html
 Для выполнения Л.Р. № 1 в Google colab:
