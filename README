@@ -15,5 +15,6 @@ pip install matplotlib
 РГР: https://mipt-cs.github.io/python3-2017-2018/labs/lab2.html
 В задании 32 запись значения в регистр работает следующим образом: mov('ax', n), где 'ax' - имя регистра, n - число или переменная хранящая число.
 	
+Задания к Курсовой работе: https://docs.google.com/spreadsheets/d/149KyIW9f_TawIUmAExxeok5gDGgxSWWrJRZnBp_t9kg/edit?usp=sharing
 
 Источник Л.Р. № 1 и РГР: 2017-2018 Алгоритмы и структуры данных на Python 3. Тимофей Хирьянов. Ссылка: https://youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0
